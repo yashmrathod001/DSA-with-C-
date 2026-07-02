@@ -4,8 +4,6 @@
  gcc hello.c -o hello
  ./hello.exe
 */
-
-
 #include <stdio.h>
 
 int main()
